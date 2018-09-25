@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prade/Downloads/Servlet Jars/Servlet Jars/websocket-api.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
